@@ -1,4 +1,4 @@
-# vuex-exercicios
+# cardvuex
 
 ## Project setup
 ```
